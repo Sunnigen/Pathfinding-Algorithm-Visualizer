@@ -10,5 +10,6 @@ You can define the start, end and obstacles from a mouse click/touch-drag.
 
 ## Software Developer Details
 The project is created in Python using Kivy as FrontEnd
+
     - Data Structure and Algorithms
     - Kivy

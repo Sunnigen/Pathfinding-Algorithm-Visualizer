@@ -25,6 +25,11 @@ Builder.load_string("""
             text: 'Randomize Grid'
             size_hint: (0.2, 1)
             on_press: root.randomize_grid()
+            
+        Button:
+            text: "Find Path!"
+            size_hint:  (0.2, 1)
+            on_press: root.pathfind()
 """)
 
 
@@ -47,3 +52,6 @@ class TopNavBar(FloatLayout):
 
     def set_grid(self, grid):
         self.grid = grid
+
+    def pathfind(self) -> None:
+        self.grid.pathfind()

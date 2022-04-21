@@ -1,4 +1,4 @@
-# Python Pathfinding Visualizer
+# Pathfinding Algorithm Visualizer
 Download the program here
 
 ## Application

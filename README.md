@@ -6,11 +6,11 @@ Astar is a standalone desktop/mobile Python application application that allows 
 
 You can define the start, end and obstacles from a mouse click/touch-drag.
 ###### User Interaction
-![interact](progress\progress-04202022_3.gif)
+![interact](https://github.com/Sunnigen/astar/blob/master/progress/progress-04202022_3.gif)
 ###### Astar Algorithm Demo
-![astar](progress\progress-04202022_1.gif)
+![astar](https://github.com/Sunnigen/astar/blob/master/progress/progress-04202022_1.gif)
 ###### Bread-First-Search Algorithm Demo
-![breadth-first-search](progress\progress-04202022_2.gif)
+![breadth-first-search](https://github.com/Sunnigen/astar/blob/master/progress/progress-04202022_2.gif)
 
 ## Software Developer Details
 The project is created in Python using Kivy as FrontEnd
